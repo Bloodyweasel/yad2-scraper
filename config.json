@@ -4,7 +4,7 @@
   "projects": [
     {
       "topic": "A new house Givatayim",
-      "url": "https://www.yad2.co.il/realestate/rent?minPrice=4000&maxPrice=10000&minRooms=4&maxRooms=5.5&imageOnly=1&elevator=1&topArea=2&area=3&city=6300"
+      "url": "      "url": "https://www.yad2.co.il/realestate/rent?minPrice=5000&maxPrice=11000&minRooms=3.5&maxRooms=5.5&multiCity=6300&multiNeighborhood=486%2C317%2C206&zoom=13""
     }
   ]
 }
